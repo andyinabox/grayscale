@@ -1,0 +1,8 @@
+{
+    "name": "andyinabox/grayscale",
+    "description": "Fork of 1interval/grayscale with composer file",
+    "type": "library",
+    "license": "GNU",
+    "minimum-stability": "dev",
+    "require": {}
+}
